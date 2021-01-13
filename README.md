@@ -1,2 +1,2 @@
-# Intro-to-Proba-and-Dato-with-R
+# Intro-to-Proba-and-Data-with-R
 Coursera practical
